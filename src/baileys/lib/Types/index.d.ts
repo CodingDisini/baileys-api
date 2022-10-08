@@ -46,7 +46,7 @@ export declare type UserFacingSocketConfig = Partial<SocketConfig> & {
 };
 export declare enum DisconnectReason {
     connectionClosed = 428,
-    connectionLost = 408,
+    connectionLost = 504,
     connectionReplaced = 440,
     timedOut = 408,
     loggedOut = 401,
