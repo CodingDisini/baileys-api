@@ -34,6 +34,11 @@ Whatsapp API based on [baileys](https://github.com/adiwajshing/Baileys).
 
 Demo visit here [ndalu-wa.herokuapp.com](https://ndalu-wa.herokuapp.com/)
 
+# Update
+
+    Please share your log file if any error.
+    Don't share your creds !!!!! Or if you trust me contact me on instagram
+
 ## HEROKU
 
 [![How to deploy this app at HEROKU](https://img.youtube.com/vi/EMV7-LRyec4/0.jpg)](https://www.youtube.com/watch?v=EMV7-LRyec4 "How to deploy this app at HEROKU")
@@ -152,6 +157,7 @@ Update getMessage on retry sending message.
     REPLACE the [url] value with your webhook url, this action will send all actifity to your webhook
     It send 3 value, token, key, and message. Do something action with your webhook.
 
+    // deprecated, enntity to large
     If imageMessage or videoMessage using gif webhook will receive imageBase64 for your media // feature by request Liu Bei
 
 ## AUTOSTART INSTANCE
